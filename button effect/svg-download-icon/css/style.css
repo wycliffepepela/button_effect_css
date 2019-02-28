@@ -1,0 +1,26 @@
+body {
+  background-color:#eceff1;
+  overflow: hidden;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+svg{
+  width:100%;
+  height:100%;
+  visibility:hidden;
+ 
+}
+
+#hit{
+  cursor:pointer;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+
+}
